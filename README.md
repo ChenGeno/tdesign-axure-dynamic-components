@@ -1,2 +1,7 @@
-# tdesign-axure-dynamic-components
-A Axure interactive UI components lib for TDesgin.
+# TDesign Axure 交互式动态组件
+
+
+
+本仓库是我参与TDesign中Axure资源建设后，用于记录历史版本及更新日志的。希望能帮助到有需要的人，也欢迎其他贡献者与我共同建设，您可以通过我github上公开的邮箱联系到我。
+
+
